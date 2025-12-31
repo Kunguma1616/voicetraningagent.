@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 8080
 
-CMD ["streamlit", "run", "voicee.py", "--server.port=8080", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "main.py", "--server.port=8080", "--server.address=0.0.0.0"]
