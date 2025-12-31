@@ -41,7 +41,7 @@ SUPPORT_EMAIL = os.getenv("ASPECT_SUPPORT_EMAIL", "support@aspect.co.uk")
 SUPPORT_PHONE = os.getenv("ASPECT_SUPPORT_PHONE", "+44 20 1234 5678")
 
 # --- Logo ---
-LOGO_FILE = Path("C:/Users/User/Downloads/images.png")
+LOGO_FILE = Path("images.png")
 
 # =================================
 # PAGE CONFIG
